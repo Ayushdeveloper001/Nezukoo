@@ -42,7 +42,7 @@ Nezuko is free and open-source software licensed under the [GNU Affero General P
 
 ## Repl.it
 
-[![Run on Repl.it](https://replit.com/badge/github/EternityBots/Nezuko)](https://replit.com/new/github/EternityBots/Nezuko)
+[![Run on Repl.it](https://replit.com/badge/github/Ayushdeveloper001/Nezukoo)](https://replit.com/new/github/Ayushdeveloper001/Nezukoo)
 
 ## Heroku
 
