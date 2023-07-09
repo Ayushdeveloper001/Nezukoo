@@ -1,6 +1,6 @@
 module.exports = {
   name: "help",
-  alias: ["h", "menu"],
+  alias: ["ayush", "menu"],
   desc: "List all command",
   category: "General",
   react: "✅",
@@ -70,6 +70,8 @@ module.exports = {
       let txt = `*Kon'nichiwa (｡♡‿♡｡)* ${pushName} Watashiwa *Nezuko*.
                        
 🧧 *Prefix :* [ ${prefix} ]
+
+🌠 *My Owner: ${ayu} 💛
                        
 📝 Here's the *Commands* listed below :\n\n`;
       const keys = Object.keys(category);
@@ -81,7 +83,7 @@ module.exports = {
           .join(", ")}\`\`\`\n\n`;
       }
       txt += `📗 Type *${prefix}help* <Command-Name> or <Command-Name> --info\n\n`;
-      txt += `*©Eternity-Team*`
+      txt += `*Nezuko 💛*`
       const eternity = [
         "https://images3.alphacoders.com/107/1078895.png",
         "https://images6.alphacoders.com/103/1037400.png",
