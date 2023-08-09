@@ -25,7 +25,7 @@ let yup = [
 let nezuko = await axios.get('https://api.github.com/repos/EternityBots/Nezuko')
 let rae = yup[Math.floor(Math.random() * yup.length)]
 
-var rr = `✨ _*🅽︎🅴︎🆉︎🆄︎🅺︎🅾︎*_  ✨\n\n🍀 *Description:* 📎 This bot was developed by Ayush and Don't ask for fork as its private`
+var rr = `✨ _*🅽︎🅴︎🆉︎🆄︎🅺︎🅾︎*_  ✨\n\n🍀 *Description:* 📎 This bot was developed by Ayush and join the official group by tapping on this link`
 await client.sendMessage(m.from,{image:{url:rae}, caption:rr},{quoted:m})
     }
 }
