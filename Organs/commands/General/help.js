@@ -36,7 +36,7 @@ module.exports = {
       ];
       let buth = {
         text: `*ℹ️Command Info*\n\n${data.join("\n")}`,
-        footer: "*©Eternity-Team*",
+        footer: "*Made with 💛*",
         buttons: buttonss,
         headerType: 1,
       };
@@ -70,8 +70,6 @@ module.exports = {
       let txt = `*Kon'nichiwa (｡♡‿♡｡)* ${pushName} Watashiwa *Nezuko*.
                        
 🧧 *Prefix :* [ ${prefix} ]
-
-🌠 *My Owner: ${ayu} 💛
                        
 📝 Here's the *Commands* listed below :\n\n`;
       const keys = Object.keys(category);
